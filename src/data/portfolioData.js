@@ -1,3 +1,5 @@
+import fotoProfile from './../assets/IrfanAbidin.jpg'
+
 export const portfolioData = {
   personal: {
     name: "Irfan Abidin",
@@ -7,12 +9,12 @@ export const portfolioData = {
     phone: "+62 818-0904-9406",
     whatsappUrl: "https://wa.me/6281809049406",
     email: "irfan43abdin@gmail.com",
-    github: "https://github.com/irfanabidin43",
+    github: "https://github.com/irfan43a",
     linkedin: "https://www.linkedin.com/in/irfanabidin43/",
     website: "https://www.linkedin.com/in/irfanabidin43/",
     bio: "S1 Teknik Informatika dari STMIK Mardira Indonesia dengan pengalaman hampir 3 tahun 5 bulan sebagai IT Consultant di IDX Consulting. Berfokus pada Frontend Development dengan pengalaman mengembangkan dan melakukan maintenance aplikasi berbasis web menggunakan React.js, TypeScript, dan JavaScript. Berpengalaman dalam menerjemahkan kebutuhan bisnis dan desain UI/UX menjadi aplikasi yang responsif dan mudah digunakan, termasuk implementasi fitur, integrasi REST API, form handling, state management, debugging, troubleshooting, serta improvement pada aplikasi existing. Terbiasa bekerja dalam project dengan berbagai kebutuhan dan requirement, melakukan analisis masalah, berkoordinasi dengan developer, analyst, dan stakeholder, serta memastikan fitur yang dikembangkan berjalan sesuai kebutuhan. Memiliki problem solving, analytical thinking, teamwork, adaptability, dan growth mindset, serta memiliki komitmen untuk terus meningkatkan kemampuan dalam bidang teknologi dan software development.",
     aboutShort: "Frontend Developer & IT Consultant berpengalaman di React.js, TypeScript, Next.js, React Hook Form, dan Redux Toolkit.",
-    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    avatar: fotoProfile,
     stats: [
       { label: "Pengalaman Kerja", value: "3.5+ Tahun" },
       { label: "Spesialisasi", value: "Frontend Dev" },
